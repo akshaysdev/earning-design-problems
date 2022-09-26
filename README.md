@@ -1,5 +1,5 @@
 # Pre-requisites
-* NodeJS 12.6.0/14.15.4/16.10.0
+* NodeJS 18.9.0
 * npm
 
 # How to run the code
