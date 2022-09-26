@@ -1,0 +1,19 @@
+{
+  "name": "earning-design-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshayus27/earning-design-problems.git"
+  },
+  "author": "akshay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshayus27/earning-design-problems/issues"
+  },
+  "homepage": "https://github.com/Akshayus27/earning-design-problems#readme"
+}
