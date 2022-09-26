@@ -7,6 +7,7 @@ const problemService = new ProblemService();
 fs.readFile(filename, 'utf8', (err, data) => {
   if (err) throw err;
   let inputLines = data.toString().split('\n');
+  inputLines = inputLines.filter(val => val !== '');
 
   let output = [];
   for (let i = 0; i < inputLines.length; i += 2) {
